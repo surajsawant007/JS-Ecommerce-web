@@ -1,5 +1,5 @@
 ====================================================================
-**_ Building an Ecommerce Website with Vanilla JavaScript _**
+**_ Building an Ecommerce Website with Vanilla JavaScript _**  ## Live Hosted = https://js-ecommerce-web.netlify.app/
 ====================================================================
 
 **_ Folder structure _**
