@@ -32,7 +32,7 @@ my-vanilla-js-project/
 ├── vite.config.js
 └── package.json
 
-## Step 1: Don't Forget To LIKE SHARE & SUBSCRIBE TO THAPA TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/thapatechnical
+## Live Hosted = https://js-ecommerce-web.netlify.app/
 
 ====================================================================
 **_ Steps to Create a Function for Displaying Product Containers _**
@@ -349,5 +349,6 @@ You've defined the `addToCart` function, enabling users to add products to their
 # The value for each key is the resolved path to the corresponding HTML file using the resolve function. This sets each HTML file as an entry point for the bundling process.
 
 # We use \_\_dirname to ensure that the paths are resolved relative to the directory of the vite.config.js file.
-#   J S - E c o m m e r c e - w e b s i t e  
+#   J S - E c o m m e r c e - w e b s i t e 
+ 
  
